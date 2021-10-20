@@ -21,5 +21,5 @@ This repo for my first project in Tuwaiq academy whitch is an website that displ
 ## Links:
 1. link of Trello board => https://trello.com/b/dHlWAIbN/project-management
 2. link of Movies API => https://rapidapi.com/amrelrafie/api/movies-tvshows-data-imdb/
-3. link of figma : https://www.figma.com/file/v0fxhcgEMQwQe0lpTMQGnY/Untitled?node-id=0%3A1
-4. Also if you want to check my project I upload it and here is the link for you 🤍 => 
+3. link of figma => https://www.figma.com/file/v0fxhcgEMQwQe0lpTMQGnY/Untitled?node-id=0%3A1
+4. Also if you want to check my project I upload it and here is the link for you 🤍 => https://nouraalqarni.github.io/MoviesAPI/ 
